@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+div{
+    margin-top: 100px;
+    /* background-color: rgb(209,209,209); */
+    
+}
+
+p{
+    font-family: "Fira Sans", sans-serif;
+    color: #303031;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 50px auto;
+}
+a{
+    color: #225bc1;
+}
